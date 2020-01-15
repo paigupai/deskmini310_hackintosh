@@ -16,7 +16,7 @@
 使用[MacInfoPkg](https://github.com/acidanthera/MacInfoPkg/releases)生成SystemSerialNumber 和 MLB  
 uuid随便在线生成个，作为SystemUUID  
 mac address同样在线生成个，作为ROM（去掉 : 或者 -, 全部转换为大写）  
-修改config.plist文件可以使用xcode（xcode11除外）或[ProperTree](https://github.com/corpnewt/ProperTree)  
+修改config.plist文件可以使用xcode（不要使用xcode11）或[ProperTree](https://github.com/corpnewt/ProperTree)  
 ### TODO
 
 
