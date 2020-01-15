@@ -23,3 +23,5 @@ mac address同样在线生成个，作为ROM（去掉 : 或者 -, 全部转换�
 
 ### 参考资料
 [使用OpenCore安装黑苹果](https://github.com/cattyhouse/oc-guide)  
+[精解OpenCore](https://blog.daliansky.net/OpenCore-BootLoader.html)
+[使用OpenCore引导黑苹果](https://blog.xjn819.com/?p=543)
