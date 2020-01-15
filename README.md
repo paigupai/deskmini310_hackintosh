@@ -13,10 +13,11 @@
 #### 修改序列号3码
 直接套用别人的EFI会导致序列号3码重复，iMessage，FaceTime，iCloud会被拉黑名单无法使用，不介意的人可以跳过这部分。  
 修改序列号需要编辑config.plist文件  
+以下操作需要python环境  
 使用[MacInfoPkg](https://github.com/acidanthera/MacInfoPkg/releases)生成SystemSerialNumber 和 MLB  
 uuid随便在线生成个，作为SystemUUID  
 mac address同样在线生成个，作为ROM（去掉 : 或者 -, 全部转换为大写）  
-修改config.plist文件可以使用xcode（不要使用xcode11）或[ProperTree](https://github.com/corpnewt/ProperTree)  
+修改config.plist文件可以使用xcode（不要使用xcode11）或[ProperTree](https://github.com/corpnewt/ProperTree)  ([图标美化版](http://bbs.pcbeta.com/viewthread-1832755-1-1.html))
 ### TODO
 
 
