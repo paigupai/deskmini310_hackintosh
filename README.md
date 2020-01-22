@@ -1,17 +1,16 @@
 
 # deskmini310_hackintosh
 猿でもわかるhackintosh（MACOS 10.15版)
-本教程使用xjn已打包好的10.15.1镜像，是基于OpenCore来引导黑苹果，教程仅供参考
+本教程使用xjn大神已打包好的10.15.1镜像，是基于OpenCore来引导黑苹果，教程仅供参考
 
 ### 配置
 
 | 配置 | 型号 |
 |:-----------|:------------:|
 | CPU       |     i3 9100     |
-| 内存     |    column    |
+| 内存     |    G.Skill F4-2400C16D-16GRS    |
 | ssd       |     WD Blue SN550 NVMe WDS500G2B0C     |
 | 网卡         |      暂无      |
-| 显示器       |    center    |
 
 ### 状况
 
