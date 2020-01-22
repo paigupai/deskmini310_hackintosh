@@ -26,7 +26,7 @@
 ### BIOS设置
 
 * Load UEFI Defaults（恢复出厂设置）
-* Advanced
+* Advanced  
  * CPU Configuration
    * CFG Lock: Disabled
  * Chipset Configuration
