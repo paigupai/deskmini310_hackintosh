@@ -27,7 +27,7 @@
 
 * Load UEFI Defaults（恢复出厂设置）
 * Advanced  
- * CPU Configuration
+  * CPU Configuration
    * CFG Lock: Disabled
  * Chipset Configuration
    * Onboard HD Audio: Enabled
@@ -86,7 +86,7 @@ sudo defaults write com.apple.loginwindow LogoutHook /Users/你的用户名/Docu
 ### 更新
 
 ### 参考资料
-[使用OpenCore安装黑苹果](https://github.com/cattyhouse/oc-guide)
-[精解OpenCore](https://blog.daliansky.net/OpenCore-BootLoader.html)
-[使用OpenCore引导黑苹果](https://blog.xjn819.com/?p=543)
-[黑苹果入门教程](https://sleele.com/2019/07/14/gettingstartedtutorial/)
+[使用OpenCore安装黑苹果](https://github.com/cattyhouse/oc-guide)  
+[精解OpenCore](https://blog.daliansky.net/OpenCore-BootLoader.html)  
+[使用OpenCore引导黑苹果](https://blog.xjn819.com/?p=543)  
+[黑苹果入门教程](https://sleele.com/2019/07/14/gettingstartedtutorial/)  
