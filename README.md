@@ -27,17 +27,17 @@
 
 * Load UEFI Defaults（恢复出厂设置）
 * Advanced
- * CPU Configuration
-   * CFG Lock: Disabled
- * Chipset Configuration
-   * Onboard HD Audio: Enabled
- * USB Configuration
-   * XHCI Hand-off, Enabled
- * ~~Super IO Configuration, Serial Port, Disabled（必须）（BIOS 4.2中Super IO Configuration被删除了，无法修改）~~
+  * CPU Configuration
+    * CFG Lock: Disabled
+  * Chipset Configuration
+    * Onboard HD Audio: Enabled
+  * USB Configuration
+    * XHCI Hand-off, Enabled
+  * ~~Super IO Configuration, Serial Port, Disabled（必须）（BIOS 4.2中Super IO Configuration被删除了，无法修改）~~
 * Security
- * Secure Boot, Disabled(by default)
+  * Secure Boot, Disabled(by default)
 * Boot
- * CSM disable
+  * CSM disable
 
 ### 安装
 镜像下载请参考[xjn的超级小白教程](https://blog.xjn819.com/?p=7#comment-464)最新为10.15.1
