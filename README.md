@@ -1,6 +1,6 @@
 
 # deskmini310_hackintosh
-猿でもわかるhackintosh（MACOS 10.15版)
+猿でもわかるhackintosh（MACOS 10.15版)  
 本教程使用xjn大神已打包好的10.15.1镜像，是基于OpenCore来引导黑苹果，教程仅供参考  
 
 ### 配置
