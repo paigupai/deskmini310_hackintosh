@@ -33,7 +33,7 @@
     * Onboard HD Audio: Enabled
   * USB Configuration
     * XHCI Hand-off：Enabled
-  * ~~Super IO Configuration, Serial Port, Disabled（必须）（BIOS 4.2中Super IO Configuration被删除了，无法修改）~~
+  * ~~Super IO Configuration, Serial Port, Disabled（BIOS 4.2中Super IO Configuration被删除了，无法修改,无视本项）~~
 * Security
   * Secure Boot：Disabled(by default)
 * Boot
