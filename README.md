@@ -84,7 +84,7 @@ sudo defaults write com.apple.loginwindow LogoutHook /Users/你的用户名/Docu
 
 
 ### 更新
-
+* 2020.1.22 新规完成
 ### 参考资料
 [使用OpenCore安装黑苹果](https://github.com/cattyhouse/oc-guide)  
 [精解OpenCore](https://blog.daliansky.net/OpenCore-BootLoader.html)  
