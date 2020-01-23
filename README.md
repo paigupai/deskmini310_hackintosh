@@ -73,7 +73,7 @@ sudo defaults write com.apple.loginwindow LogoutHook /Users/你的用户名/Docu
 * 把usb内的efi文件夹的BOOT文件夹和OC文件夹复制到内置硬盘的efi分区下，打开系统偏好设置---启动磁盘，选择内置硬盘为默认启动的启动磁盘  
 * 拔掉u盘，重启，即可，默认启动项为内置硬盘名  
 
-[参考：3.0 OpenCore 完善](https://blog.xjn819.com/?p=543)
+[参考：使用OpenCore引导黑苹果 3.0 OpenCore 完善](https://blog.xjn819.com/?p=543)
 
 ### 推荐软件
 [Carbon Copy Cloner](https://bombich.com/ja)  
