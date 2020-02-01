@@ -45,7 +45,8 @@
 直接下载镜像，写入到u盘即可，如果嫌百度网盘慢，可以冲3块钱用[速盘](https://www.speedpan.com/)  
 ※注意这个教程中安装的是基于OpenCore的引导，而非clover，所有基于clover引导的修改都是不行的，如果之前安装过clover黑苹果🍎，是无法直接使用的（[参考](https://blog.daliansky.net/OpenCore-BootLoader.html)）  
 #### 修改序列号3码
-~~不影响使用，不介意的人可以跳过，可在windows环境修改  
+~~无视  
+不影响使用，不介意的人可以跳过，可在windows环境修改  
 修改序列号需要编辑config.plist文件  
 以下操作需要python环境  
 使用[MacInfoPkg](https://github.com/acidanthera/MacInfoPkg/releases)生成SystemSerialNumber 和 MLB  
@@ -86,7 +87,8 @@ sudo defaults write com.apple.loginwindow LogoutHook /Users/你的用户名/Docu
 
 ### 更新
 * 2020.1.22 新规完成
-* 2020.2.1 更新10.15.3
+* 2020.2.1 成功更新10.15.3，无异常
+![avatar](https://github.com/paigupai/deskmini310_hackintosh/raw/master/image/10.15.3.png)
 
 ### 参考资料
 [使用OpenCore安装黑苹果](https://github.com/cattyhouse/oc-guide)  
