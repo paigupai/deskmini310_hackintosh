@@ -91,7 +91,7 @@ sudo defaults write com.apple.loginwindow LogoutHook /Users/你的用户名/Docu
 ![avatar](https://github.com/paigupai/deskmini310_hackintosh/raw/master/image/10.15.3.png)
 
 ### 参考资料
-[使用OpenCore安装黑苹果](https://github.com/cattyhouse/oc-guide)
-[精解OpenCore](https://blog.daliansky.net/OpenCore-BootLoader.html)
-[使用OpenCore引导黑苹果](https://blog.xjn819.com/?p=543)
-[黑苹果入门教程](https://sleele.com/2019/07/14/gettingstartedtutorial/)
+[使用OpenCore安装黑苹果](https://github.com/cattyhouse/oc-guide)  
+[精解OpenCore](https://blog.daliansky.net/OpenCore-BootLoader.html)  
+[使用OpenCore引导黑苹果](https://blog.xjn819.com/?p=543)  
+[黑苹果入门教程](https://sleele.com/2019/07/14/gettingstartedtutorial/)  
